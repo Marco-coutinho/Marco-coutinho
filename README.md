@@ -3,8 +3,6 @@
 
 <div align="center">
   <a href="https://github.com/Marco-coutinho">
-  <img height="180em" src=""/>
-  <img height="180em" src=""/>
 </div>
   
        
