@@ -1,5 +1,5 @@
 ### Olá, Mundo! Sejam Bem vindos ao meu Arsenal!
-	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white(https://www.linkedin.com/in/marco-coutinho/)
+	<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> (https://www.linkedin.com/in/marco-coutinho/)
   
 
 
