@@ -4,9 +4,13 @@
 
 
 
-![Marco GitHub stats](https://github-readme-stats.vercel.app/api?username=Marco-coutinho&show_icons=true&theme=dracula&count_private=true)
-[![MarcoTop Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marco-coutinho&layout=compact)](https://github.com/Marco-coutinho/github-readme-stats)
 
+<a href="https://github.com/Marco-coutinho/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Marco-coutinhorepo=github-readme-stats" />
+</a>
+<a href="https://github.com/Marco-coutinho/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Marco-coutinho&repo=convoychat" />
+</a>
 
 ## Tecnologias que eu uso no meu dia
   
