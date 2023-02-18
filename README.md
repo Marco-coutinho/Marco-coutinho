@@ -2,6 +2,8 @@
 
 
 
+![Marco GitHub stats](https://github-readme-stats.vercel.app/api?username=Marco-coutinho&show_icons=true&theme=dracula&count_private=true)
+[![MarcoTop Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marco-coutinho&layout=compact)](https://github.com/Marco-coutinho/github-readme-stats)
 
 
 
