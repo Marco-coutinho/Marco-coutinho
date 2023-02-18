@@ -8,10 +8,10 @@
 
 
 <a href="https://github.com/Marco-coutinho/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Marco-coutinhorepo=github-readme-stats" />
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=Marco-coutinhorepo=github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Marco-coutinho&layout=compact)](https://github.com/Marco-coutinho/github-readme-stat)" />
 </a>
 <a href="https://github.com/Marco-coutinho/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Marco-coutinho&repo=convoychat" />
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=Marco-coutinho&repo=convoychat](https://github-readme-stats.vercel.app/api/top-langs/?username=Marco-coutinho&layout=compact)" />
 </a>
 
 ## Tecnologias que eu uso no meu dia
