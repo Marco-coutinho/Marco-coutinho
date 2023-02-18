@@ -1,18 +1,10 @@
 ### Olá, Mundo! Sejam Bem vindos ao meu Arsenal!
-
+	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white(https://www.linkedin.com/in/marco-coutinho/)
+  
 
 
 ![Marco GitHub stats](https://github-readme-stats.vercel.app/api?username=Marco-coutinho&show_icons=true&theme=dracula&count_private=true)
 [![MarcoTop Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marco-coutinho&layout=compact)](https://github.com/Marco-coutinho/github-readme-stats)
-
-
-
-<a href="https://github.com/Marco-coutinho/github-readme-stats">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=Marco-coutinhorepo=github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Marco-coutinho&layout=compact)](https://github.com/Marco-coutinho/github-readme-stat)" />
-</a>
-<a href="https://github.com/Marco-coutinho/convoychat">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=Marco-coutinho&repo=convoychat](https://github-readme-stats.vercel.app/api/top-langs/?username=Marco-coutinho&layout=compact)" />
-</a>
 
 ## Tecnologias que eu uso no meu dia
   
@@ -23,4 +15,7 @@
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img align="center" alt= "mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img align="center" alt= "sql" src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sql&logoColor=white"/>
+
 </div><br/>
